@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "03457082-716E-415D-8ACA-E3A4773C00D9",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:JeuSetMatch.xcodeproj",
+      "identifier" : "C902929C1F8D0500003E6B8B",
+      "name" : "JeuSetMatch"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:JeuSetMatch.xcodeproj",
+        "identifier" : "C9AD20A11FE1324500FD261F",
+        "name" : "JeuSetMatchTests"
+      }
+    }
+  ],
+  "version" : 1
+}
